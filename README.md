@@ -1,2 +1,2 @@
-# Homework
-Project HTML CSS
+# My Projects
+Study Projects HTML CSS JS 
