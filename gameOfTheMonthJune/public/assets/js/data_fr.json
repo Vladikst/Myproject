@@ -1,0 +1,74 @@
+{
+  "H1": "Juin: Le Jeu du Mois",
+  "H2": "Entrez dans l’arène",
+  "description": "<p>Préparez-vous à partir dans les grandes contrées américaines de Push Gaming et de sa machine <a class='gameLink green'>Bison Battle</a>. Affrontez les bisons du grand canyon et frayez-vous un chemin entre les Sioux et les Cheyennes afin de remporter le gros lot !</p><p>Coyotes sauvages, Aigles royaux, Lynx terrifiants et les différents bisons seront vos alliés lors de ce périple en pleines montagnes du désert aride et sec.</p><p>Profitez des 2 vallées lors du déclenchement des FreeSpins: Ice Park Feature et Green Valley Feature. Vous pouvez aussi toucher la fonctionnalité spécifique de ce jeu: <a class='gameLink green'>Bison Battle</a>.</p><p>Quand 2 sticky bisons se rencontrent, ils fusionnent et vous offrent un gain directement crédité sur votre compte !",
+  "gameLink": {
+    "text": "Bison Battle",
+    "url": "https://www.madnix.com/fr/jeux-casino/pushgaming_bison-battle.html",
+    "slug": "pushgaming_bison-battle.html"
+  },
+  "gameImg": {
+    "mobileUrl": "assets/images/doctor_pic_fr_mob.webp",
+    "desktopUrl": "assets/images/doctor_pic_fr.webp"
+  },
+ "onErrorImg": {
+    "mobileUrl": "this.onerror=null; this.src='assets/images/doctor_pic_fr_mob.png'",
+    "desktopUrl": "this.onerror=null; this.src='assets/images/doctor_pic_fr.png'"
+  },
+
+  "awardsTitle": "RÈGLES DE BASE ET GAINS",
+  "awardsText": "<p>Le retour aux joueurs de ce jeu est de 96.41%. Bison battle est une machine à haute volatilité.</p><p>Le jeu est au format 5*4 et consiste à connecter au minimum 3 symboles et 20 lignes de paiements sont disponibles.</p><p>Vous pouvez miser sur cette machine de <span class='green'>0.10cts</span> à <span class='green'>100€</span> par tour de mise ou bien en utilisant la fonction Auto, pour paramétrer jusqu’à 100 tours.</p>",
+  "awardsImgUrl": "assets/images/side_pic.png",
+
+  "detailsTitleFeatures": "FONCTIONS ET SYMBOLES",
+  "feature1Img": "assets/images/1_big_symbol.png",
+  "feature1Title": "Scatter Symbol",
+  "feature1Text": "Le bison bleu et vert sont des symboles scatter, qui peuvent être présents uniquement sur la première ligne. Vous aurez besoin d’un Bison rouge sur la même ligne afin de déclencher les FreeSpins.",
+  "feature2Img": "assets/images/2_big_symbol.png",
+  "feature2Title": "Red Bison Symbol",
+  "feature2Text": "Ces symboles ne peuvent atterrir que sur la roue 1 et 5. Lorsque ces deux bisons se rencontrent, ils fusionnent et offrent un gain égal au multiplicateur présent sur le symbole. S’ils ne connectent pas, le symbole passe les reels une par une pour une chance encore plus grande de gagner un prix. Il disparaît au bout de 5 tours.",
+  "feature3Img": "assets/images/3_big_symbol.png",
+  "feature3Title": "Symbole Wild Bison",
+  "feature3Text": "Ce symbole remplace tous les autres symboles sauf le Red, Green et Blue Bison.<br>Pendant la feature Green Valley ce sticky wild est valable uniquement  pour les roues 2, 3 et 4.",
+  "feature4Img": "assets/images/4_big_symbol.png",
+  "feature4Title": "Ice Park Feature",
+  "feature4Text": "Vous aurez le droit à 3 spins dans la feature Ice Park. A chaque fois qu’un symbole apparaît, vous repartez pour 3 spins. Si un bison tombe sur un des côtés, le multiplicateur fonctionnera sur tous les multiplicateurs de la ligne !",
+  "feature5Img": "assets/images/5_big_symbol.png",
+  "feature5Title": "Green Valley Feature",
+  "feature5Text": "Tous les Wild présents dans la Green Valley sont des sticky Wild. Vous aurez 8 FreeSpins afin de les multiplier et espérer un gain énorme. Les sticky wild sont présents uniquement sur les reels 2, 3 et 4.",
+
+  "comment": "Ce jeu est en version démo, pour jouer en argent réel <a href='' class='gameLink green'><span>cliquez ici</span></a>",
+
+  "detailsTitleVolatility": "VOLATILITÉ & RTP",
+  "detail1ImgUrl": "assets/images/vlt_icon_fr.png",
+  "detail2ImgUrl": "assets/images/multiplier_icon.png",
+  "detail3ImgUrl": "assets/images/rtp_icon.png",
+  "detail1Title": "Volatilité",
+  "detail2Title": "Max<br>Multiplicateur",
+  "detail3Title": "RTP",
+
+  "specificationTitle": "Spécifications du jeu",
+
+  "table": {
+    "headCells": [
+      "Nom du jeu",
+      "Type de jeu",
+      "Combinaisons gagnantes",
+      "Jeu mobile",
+      "Résolution du jeu",
+      "Plateformes prise en charge",
+      "Navigateur recommandés",
+      "OS supportés"
+    ],
+    "bodyCells": [
+      "<a class='gameLink'>Bison Battle</a>",
+      "5x4",
+      "20 lignes de paiements",
+      "Oui",
+      "16:9",
+      "assets/images/devices.png",
+      "assets/images/browsers.png",
+      "assets/images/os.png"
+    ]
+  }
+}
