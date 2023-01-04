@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(255, 255, 224);
+    padding-left: 14px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(189, 20, 20);
+    font-size: 17px;
+    padding-top: 18px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(189, 20, 20);
+    font-size: 17px;
+    padding-top: 18px;
+}
+
+p {
+    font-size: 13px;
+}
+
+.text {
+    font-style: italic;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}

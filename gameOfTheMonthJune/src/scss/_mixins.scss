@@ -1,5 +1,0 @@
-@mixin screen($res) {
-  @media (max-width: $res + px) {
-    @content;
-  }
-}
