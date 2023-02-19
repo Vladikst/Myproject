@@ -31,7 +31,7 @@
 		"editorOverviewRuler.warningForeground": "#0000",
 		"editorOverviewRuler.infoForeground": "#0000"
 	},
-	"workbench.colorTheme": "soft sight",
+	"workbench.colorTheme": "GitHub Dark",
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.productIconTheme": "icons-carbon",
 	"workbench.layoutControl.enabled": false,

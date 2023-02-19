@@ -1,0 +1,25 @@
+* {
+  text-decoration: none;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  width: 286px;
+  margin: 0 auto;
+  padding-top: 31px;
+}
+
+.shape-yellow {
+  width: 398px;
+  margin: 70px 1235px 964px 600px;
+}
+
+.about_text {
+  font-size: 100px;
+  color: #000000;
+  font-weight: bold;
+  font-family: "Myriad Pro";
+  transform: rotate(270deg);
+}/*# sourceMappingURL=style.css.map */
