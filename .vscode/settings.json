@@ -1,26 +1,6 @@
 {
-	"liveSassCompile.settings.formats": [
-		// This is Default.
-		{
-			"format": "expanded",
-			"extensionName": ".css",
-			"savePath": null
-		},
-		// You can add more
-		{
-			"format": "compressed",
-			"extensionName": ".min.css",
-			"savePath": "/dist/css"
-		},
-		// More Complex
-		{
-			"format": "compressed",
-			"extensionName": ".min.css",
-			"savePath": "~/../css/"
-		}
-	],
 	"window.openFilesInNewWindow": "off",
-	"editor.tabSize": 2,
+	"editor.tabSize": 4,
 	"editor.wordWrap": "bounded",
 	"editor.wrappingIndent": "same",
 	"editor.wordWrapColumn": 60,
@@ -36,5 +16,15 @@
 	"trailingComma": "es5",
 	"tabWidth": 4,
 	"semi": false,
-	"singleQuote": true
+	"singleQuote": true,
+	"liveSassCompile.settings.generateMap": false,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": "~/../css/"
+		}
+	],
+	"liveSassCompile.settings.autoprefix": ["> 1%", "last 10 versions"],
+	"liveSassCompile.settings.showOutputWindow": true
 }
