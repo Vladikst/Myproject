@@ -81,7 +81,7 @@
 	},
 
 	//Terminal
-	"terminal.integrated.fontFamily": "Iosevka NFM",
+	"terminal.integrated.fontFamily": "monospace",
 	"terminal.integrated.fontSize": 15,
 	"terminal.integrated.tabs.enabled": false,
 
@@ -203,7 +203,7 @@
 		"**/.vscode": true,
 		"**/.next": true
 	},
-	"window.zoomLevel": 1,
+	"window.zoomLevel": 0,
 	"workbench.activityBar.visible": true,
 	"github.copilot.enable": {
 		"*": true,
