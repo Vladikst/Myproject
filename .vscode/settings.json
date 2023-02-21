@@ -133,10 +133,18 @@
 	"security.workspace.trust.untrustedFiles": "open",
 	"html.completion.attributeDefaultValue": "singlequotes",
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-	"[prisma]": {
-		"editor.defaultFormatter": "Prisma.prisma"
-	},
 
+	"liveSassCompile.settings.generateMap": false,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": "~/../css/"
+		}
+	],
+	"liveSassCompile.settings.autoprefix": ["> 1%", "last 10 versions"],
+	"liveSassCompile.settings.showOutputWindow": true,
+	"liveServer.settings.AdvanceCustomBrowserCmdLine": "",
 	//Breadcrumbs
 	"breadcrumbs.icons": false,
 	"breadcrumbs.showKeys": false,
@@ -195,13 +203,7 @@
 		"**/.vscode": true,
 		"**/.next": true
 	},
-	"window.zoomLevel": 0,
-	"[blade]": {
-		"editor.defaultFormatter": "onecentlin.laravel-blade"
-	},
-	"[php]": {
-		"editor.defaultFormatter": "kokororin.vscode-phpfmt"
-	},
+	"window.zoomLevel": 1,
 	"workbench.activityBar.visible": true,
 	"github.copilot.enable": {
 		"*": true,
