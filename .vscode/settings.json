@@ -203,7 +203,7 @@
 		"**/.vscode": true,
 		"**/.next": true
 	},
-	"window.zoomLevel": 1,
+	"window.zoomLevel": 0,
 	"workbench.activityBar.visible": true,
 	"github.copilot.enable": {
 		"*": true,
