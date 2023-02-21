@@ -81,7 +81,7 @@
 	},
 
 	//Terminal
-	"terminal.integrated.fontFamily": "Iosevka NFM",
+	"terminal.integrated.fontFamily": "monospace",
 	"terminal.integrated.fontSize": 15,
 	"terminal.integrated.tabs.enabled": false,
 
