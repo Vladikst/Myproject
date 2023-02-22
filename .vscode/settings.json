@@ -49,6 +49,7 @@
 	"debug.onTaskErrors": "debugAnyway",
 	"diffEditor.ignoreTrimWhitespace": false,
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.suggestSelection": "first",
 	"editor.fontSize": 15,
 	"editor.formatOnPaste": false,
 	"editor.formatOnSave": true,
@@ -56,7 +57,6 @@
 	"editor.linkedEditing": true,
 	"editor.minimap.enabled": false,
 	"editor.multiCursorModifier": "ctrlCmd",
-	"editor.suggestSelection": "first",
 	"editor.tabSize": 4,
 	"editor.wordWrap": "on",
 	"emmet.includeLanguages": {
@@ -94,5 +94,5 @@
 		"> 1%",
 		"last 10 versions"
 	],
-	"liveSassCompile.settings.showOutputWindow": true,
+	"liveSassCompile.settings.showOutputWindow": true
 }
