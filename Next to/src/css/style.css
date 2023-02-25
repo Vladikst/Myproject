@@ -6,23 +6,103 @@
   margin: 0;
 }
 
-.header {
-  width: 286px;
+.container {
+  max-width: 1500px;
   margin: 0 auto;
-  padding-top: 31px;
+}
+
+.header {
+  width: 292px;
+  margin: 0 auto;
+  padding: 35px 0 51px;
+}
+
+.about {
+  min-height: 820px;
+  padding-bottom: 113px;
 }
 
 .shape-yellow {
-  width: 398px;
-  margin: 70px 1235px 964px 600px;
+  position: relative;
 }
-
-.about_text {
-  font-size: 100px;
+.shape-yellow-img {
+  margin-left: 77px;
+  width: 399px;
+}
+.shape-yellow .about_text {
+  position: absolute;
+  left: -251px;
+  top: 293px;
+  font-size: 174px;
   color: #000000;
   font-weight: bold;
-  font-family: "Myriad Pro";
+  font-family: "Myriad Pro", sans-serif;
   -webkit-transform: rotate(270deg);
       -ms-transform: rotate(270deg);
           transform: rotate(270deg);
+  z-index: 1;
+}
+
+.next_to_you {
+  position: absolute;
+  top: 93px;
+  left: 23px;
+  margin-left: 203px;
+  color: #000000;
+  font-weight: 800;
+  font-family: "Avenir";
+  z-index: 10;
+}
+.next_to_you h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 60px;
+}
+.next_to_you p {
+  padding-bottom: 103px;
+  font-weight: normal;
+  line-height: 40px;
+  font-size: 39px;
+}
+
+.footer {
+  min-height: 683px;
+  background-color: #f7e13d;
+  text-align: center;
+}
+
+.reach_us {
+  position: relative;
+  padding: 156px 0 198px;
+  z-index: 1;
+}
+.reach_us h2 {
+  text-transform: uppercase;
+  font-size: 115px;
+  font-weight: bold;
+  font-family: "Myriad Pro", sans-serif;
+}
+
+.reach_text {
+  width: 823px;
+  margin: 0 auto;
+  font-size: 38px;
+  font-weight: 500;
+  font-family: "Avenir", sans-serif;
+  padding-top: 64px;
+}
+
+.reach_footer {
+  font-size: 47px;
+  font-weight: bold;
+  font-family: "Myriad Pro", sans-serif;
+  margin-top: 65px;
+}
+
+.reach_img {
+  position: absolute;
+  top: 230px;
+  right: 155px;
+  width: 399px;
+  z-index: -3;
 }
