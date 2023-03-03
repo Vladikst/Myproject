@@ -58,7 +58,7 @@
 	"editor.minimap.enabled": false,
 	"editor.multiCursorModifier": "ctrlCmd",
 	"editor.tabSize": 4,
-	"editor.wordWrap": "on",
+	"editor.wordWrap": "off",
 	"emmet.includeLanguages": {
 		"javascript": "javascriptreact",
 		"vue-html": "html"
@@ -74,10 +74,17 @@
 	"liveServer.settings.donotShowInfoMsg": true,
 	"markdown.extension.toc.updateOnSave": false,
 	"prettier.jsxSingleQuote": true,
-	"prettier.semi": false,
+	"prettier.semi": true,
+	"prettier.tabWidth": 2,
+	"editor.wordWrapColumn": 150,
+	"prettier.arrowParens": "avoid",
+	"prettier.useTabs": true,
 	"prettier.singleQuote": true,
 	"prettier.trailingComma": "none",
 	"prettier.useEditorConfig": false,
+	"prettier.printWidth": 200,
+	"html.format.wrapLineLength": 0,
+	"prettier.singleAttributePerLine": false,
 	"security.workspace.trust.untrustedFiles": "open",
 	"typescript.updateImportsOnFileMove.enabled": "always",
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
@@ -99,5 +106,5 @@
 		"> 1%",
 		"last 10 versions"
 	],
-	"liveSassCompile.settings.showOutputWindow": true
+	"liveSassCompile.settings.showOutputWindow": true,
 }
